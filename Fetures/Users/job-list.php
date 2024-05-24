@@ -48,7 +48,7 @@ $title = "Job List";
 <style>
   
   .autofit2 {
-  height:100px;
+  height:101px;
   width:100px;
   object-fit:cover; 
 }
